@@ -429,4 +429,4 @@ Output:
 Further Reading
 ******************
 
-#. http://rfic.eecs.berkeley.edu/~niknejad/ee242/pdf/eecs242_lect3_rxarch.pdf
+#. https://www.slideshare.net/NahshonMObiri/eecs242lect3rxarchpdf
